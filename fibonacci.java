@@ -5,10 +5,12 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class fibonacci {
+	
 
 	public static void main(String[] args) {
 		// check the given number an element of fibonacci series or not
 		
+		System.out.println("WELLCOME");
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter an integer to check with fibonacci serie");
 		int number = scan.nextInt();
